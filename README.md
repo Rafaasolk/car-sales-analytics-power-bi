@@ -62,7 +62,7 @@ DIVIDE ( [$ Faturamento] - [$ Faturamento LY], [$ Faturamento LY] ) + 0
 - **DAX:** medidas iterativas, contexto de filtro, inteligência temporal e rankings.
 - **Power Query:** camada de obtenção e transformação de dados do Power BI.
 - **Modelagem dimensional:** tabela fato, dimensões e relacionamentos `N:1`.
-- **Fontes identificadas:** CSV, Excel, JSON e tabela inserida manualmente.
+- **Fontes identificadas:** CSV, Excel, JSON e SQL.
 
 ## Estrutura sugerida do repositório
 
