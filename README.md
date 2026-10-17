@@ -70,9 +70,7 @@ DIVIDE ( [$ Faturamento] - [$ Faturamento LY], [$ Faturamento LY] ) + 0
 car-sales-analytics-power-bi/
 ├── README.md
 ├── images/
-│   ├── overview.png
-│   ├── temporal-analysis.png
-│   └── data-model.png
+│   ├── Car_Sales.png
 └── dax/
     └── medidas-exemplo.md
 ```
